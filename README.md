@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Spencer Hulse
 
-I'm a full-stack developer who is still learning the tricks of the trade. In a past life, I learned about psychology, and I currently still work as a writer and editor. You might even say I'm a student of languages, both English and various computer languages.
+I'm a full-stack developer who is still learning the tricks of the trade. In a past life, I learned about psychology, and I currently still work as a writer and editor. You might even say I'm a student of languages, both English and computer languages.
 
 ## Currently Proficient In:
 
